@@ -1,0 +1,28 @@
+name: WaterPrepared
+favicon: null
+layout_spectrum: 0.5896261089947075
+typography_spectrum: 0.28809457435272634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3587461190763861
+  lightness: 0.2291011973284185
+  saturation: 0.36134804296307266
+  rhythmicContrast: 0.891532298643142
+purpose: []
